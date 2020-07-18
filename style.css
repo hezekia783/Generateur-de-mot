@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding:0;
+}
+
+h1{
+    margin-bottom: 50px;
+    font-size: 50px;
+    background: #748add42;
+    display: block;
+}
+
+input, button{
+    height: 40px;
+}
+
+p{
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.rep{
+    font-size: 30px;
+    background: #ff000052;
+    height: 50px;
+}
